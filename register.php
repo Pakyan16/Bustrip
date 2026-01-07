@@ -6,16 +6,8 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
+require 'koneksi.php';
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "db_bustrip";
-
-$conn = new mysqli($servername, $username, $password, $dbname);
-if ($conn->connect_error) {
-    die("Koneksi gagal: " . $conn->connect_error);
-}
 
 $error_msg = "";
 $success_msg = "";
