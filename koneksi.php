@@ -1,9 +1,9 @@
 <?php
 // Konfigurasi database InfinityFree
-$host = "sql110.byetcluster.com";
-$user = "if0_40700535";
-$pass = "Your vPanel Password";
-$db   = "if0_40700535_db_bustrip";
+$host = "https://bustrip.site";
+$user = "u936058994_bustrip_pakyan";
+$pass = "Pakyan_161105";
+$db   = "u936058994_bustrip";
 
 // Membuat koneksi
 $conn = mysqli_connect($host, $user, $pass, $db);
