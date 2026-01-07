@@ -63,7 +63,7 @@ if (isset($_GET['email'])) {
         <div class="success-icon">✅</div>
         <h4 class="text-success">Verifikasi Berhasil</h4>
         <p class="mt-3 text-dark"><?= $pesan; ?></p>
-        <a href="login.php" class="btn btn-success mt-4 px-4">Ke Halaman Login</a>
+        <a href="index.php" class="btn btn-success mt-4 px-4">Ke Halaman Login</a>
       <?php else: ?>
         <div class="text-danger fs-1 mb-2">❌</div>
         <h4 class="text-danger">Verifikasi Gagal</h4>
