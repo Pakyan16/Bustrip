@@ -48,7 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <h3>Halo, $nama!</h3>
                         <p>Terima kasih telah mendaftar di BusTrip.</p>
                         <p>Klik link berikut untuk verifikasi akun Anda:</p>
-                        <a href='http://localhost/bustrip/verify_email.php?email=$email'>Verifikasi Akun</a>
+                        <a href='https://bustrip.site/verify_email.php?email=$email'>Verifikasi Akun</a>
                     ";
                     
                     $mail->send();
