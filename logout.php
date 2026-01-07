@@ -57,7 +57,7 @@ session_destroy(); // Hapus session dari server
   <p class="text-secondary mb-4">Terima kasih telah menggunakan layanan <strong>BusTrip</strong>!<br>
   Sampai jumpa di perjalanan berikutnya 🚍</p>
 
-  <a href="login.php" class="btn btn-login px-4 py-2 rounded-pill">
+  <a href="index.php" class="btn btn-login px-4 py-2 rounded-pill">
     Kembali ke Login
   </a>
 </div>
