@@ -192,7 +192,7 @@ $conn->close();
 
     <p class="text-center mt-3">
       Sudah punya akun?
-      <a href="login.php" class="text-decoration-none text-success fw-semibold">Login di sini</a>
+      <a href="index.php" class="text-decoration-none text-success fw-semibold">Login di sini</a>
     </p>
 
   </div>
