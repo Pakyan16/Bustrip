@@ -1,6 +1,6 @@
 <?php
 // Konfigurasi database InfinityFree
-$host = "https://bustrip.site";
+$host = "localhost";
 $user = "u936058994_bustrip_pakyan";
 $pass = "Pakyan_161105";
 $db   = "u936058994_bustrip";
