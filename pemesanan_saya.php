@@ -82,8 +82,6 @@ $query = $conn->query("
   <a href="dashboard_penumpang.php"><i class="fa-solid fa-house"></i> Dashboard</a>
   <a href="jadwal_keberangkatan.php"><i class="fa-solid fa-ticket"></i> Pesan Tiket</a>
   <a href="pemesanan_saya.php"><i class="fa-solid fa-list"></i> Pemesanan Saya</a>
-  <a href="#"><i class="fa-solid fa-gift"></i> Promo</a>
-  <a href="profil_penumpang.php"><i class="fa-solid fa-user"></i> Profil</a>
   <a href="logout.php"><i class="fa-solid fa-right-from-bracket"></i> Logout</a>
 </div>
 
